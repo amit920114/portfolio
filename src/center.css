@@ -1,0 +1,32 @@
+.container{
+  display: flex;
+  /* justify-content: ; */
+}
+.name{
+    color: white;
+    /* width: 60%;
+    padding-left: 0;
+    font-size: large;
+    text-align: left;
+    padding-top: 100; */
+    /* margin: auto; */
+  width: 50%;
+  /* padding-top: 100px; */
+  padding: 200px 30px 75px ;
+  text-align: center;
+}
+.amit{
+    color: teal;
+    font-weight: 500;
+    text-align: right;
+    width: 60%;
+    padding: 10px;  
+    
+    
+}
+.video{
+
+  padding: 100px 50px 100px 0;
+  /* justify-content: right; */
+  border: black;
+}
