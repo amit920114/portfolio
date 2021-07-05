@@ -1,6 +1,6 @@
 import React from "react";
 import "./center.css";
-import Video from "./animation.mp4";
+// import Video from "./animation.mp4";
 
 function center() {
   return (
@@ -15,11 +15,11 @@ function center() {
           <br />A Web Developer!
         </h1>
       </div>
-      <div class="video rounded float">
+      {/* <div class="video rounded float">
         <video width="500" height="300" controls autoPlay>
           <source src={Video} type="video/mp4" />
         </video>
-      </div>
+      </div> */}
     </div>
   );
 }

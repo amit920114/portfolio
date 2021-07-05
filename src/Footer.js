@@ -5,6 +5,7 @@ function Footer() {
   return (
     <div class="container">
       <h1>Social</h1>
+      <footer>amit</footer>
     </div>
   );
 }
