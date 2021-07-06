@@ -1,3 +1,7 @@
 #SKILL{
     padding-left: 130px;
+    display: flex;
+}
+.lottie{
+    padding: 100px;
 }

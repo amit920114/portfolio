@@ -20,7 +20,6 @@ function navbar() {
           </Container>
         </Navbar>
       </>
-      ;
     </div>
   );
 }

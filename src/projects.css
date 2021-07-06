@@ -6,6 +6,7 @@
     color: white;
     padding-top: 10px;
     padding-left: 10px;
+    /* display: flex; */
     
 }
 .covid{
@@ -23,7 +24,16 @@
     color: white;
     padding-top: 10px;
     padding-left: 10px;
+    text-decoration: none;
 }
 #video{
     text-align: center;
+}
+.covid{
+    text-align: right;
+    padding-right: 100px;
+}
+.covid-chart{
+    border-radius: 2%;
+    border-color: black;
 }

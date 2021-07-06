@@ -20,6 +20,16 @@ function center() {
           <source src={Video} type="video/mp4" />
         </video>
       </div> */}
+      <lottie-player
+        class="lottie"
+        src="https://assets4.lottiefiles.com/packages/lf20_hyvabsgc.json"
+        background="transparent"
+        speed="1"
+        style={{ width: "300px", height: "300px" }}
+        loop
+        controls
+        autoplay
+      ></lottie-player>
     </div>
   );
 }

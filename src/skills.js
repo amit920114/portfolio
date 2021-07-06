@@ -7,7 +7,7 @@ function skills() {
   return (
     <div>
       <div
-        className="mb-2 mx-5 d-grid gap-2"
+        className="mb-2 mx-5 d-grid gap-2 "
         id="SKILL"
         data-aos="fade-down"
         data-aos-easing="linear"
@@ -18,7 +18,7 @@ function skills() {
         </Button>
       </div>
       <div
-        class="skills"
+        class="container skills"
         className="mb-2 mx-5"
         data-aos="fade-up"
         data-aos-duration="3000"
@@ -68,6 +68,17 @@ function skills() {
         <Button className="my-2 mx-2" variant="outline-primary">
           ReactBootsreap
         </Button>{" "}
+        {/* <div class="lottie">
+          <lottie-player
+            src="https://assets1.lottiefiles.com/packages/lf20_xrmk3h1x.json"
+            background="transparent"
+            speed="1"
+            style={{ width: "300px", height: "300px" }}
+            loop
+            controls
+            autoplay
+          ></lottie-player>
+        </div> */}
       </div>
     </div>
   );
