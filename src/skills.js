@@ -68,17 +68,6 @@ function skills() {
         <Button className="my-2 mx-2" variant="outline-primary">
           ReactBootsreap
         </Button>{" "}
-        {/* <div class="lottie">
-          <lottie-player
-            src="https://assets1.lottiefiles.com/packages/lf20_xrmk3h1x.json"
-            background="transparent"
-            speed="1"
-            style={{ width: "300px", height: "300px" }}
-            loop
-            controls
-            autoplay
-          ></lottie-player>
-        </div> */}
       </div>
     </div>
   );

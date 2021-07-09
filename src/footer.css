@@ -1,4 +1,11 @@
-div{
+#SOCIAL{
     color: white;
+    left: 0;
+    bottom: 0;
+}
+.icons{
+    letter-spacing: 3px;
+    text-align: center;
+    margin: 2rem;
     
 }
